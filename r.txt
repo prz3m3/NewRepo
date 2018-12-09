@@ -1,2 +1,3 @@
 First line in new file
-next text 
+next text
+123456 
