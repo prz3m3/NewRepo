@@ -1,1 +1,3 @@
-First line in new file 
+First line in new file
+next text line 
+ 
